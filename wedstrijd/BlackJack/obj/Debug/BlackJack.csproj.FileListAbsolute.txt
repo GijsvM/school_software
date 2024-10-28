@@ -1,0 +1,30 @@
+C:\Users\shark\source\repos\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\shark\source\repos\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\shark\source\repos\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\shark\source\repos\BlackJack\obj\Debug\BlackJack.csproj.AssemblyReference.cache
+C:\Users\shark\source\repos\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\shark\source\repos\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.cache
+C:\Users\shark\source\repos\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\shark\source\repos\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\shark\source\repos\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\shark\source\repos\BlackJack\obj\Debug\BlackJack.blackjack.resources
+C:\Users\shark\source\repos\BetterBlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\shark\source\repos\BetterBlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\shark\source\repos\BetterBlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\shark\source\repos\BetterBlackJack\BlackJack\obj\Debug\BlackJack.csproj.AssemblyReference.cache
+C:\Users\shark\source\repos\BetterBlackJack\BlackJack\obj\Debug\BlackJack.blackjack.resources
+C:\Users\shark\source\repos\BetterBlackJack\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\shark\source\repos\BetterBlackJack\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.cache
+C:\Users\shark\source\repos\BetterBlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\shark\source\repos\BetterBlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\shark\source\repos\BetterBlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\shark\source\repos\wedstrijd\BlackJack v2\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\shark\source\repos\wedstrijd\BlackJack v2\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\shark\source\repos\wedstrijd\BlackJack v2\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\shark\source\repos\wedstrijd\BlackJack v2\BlackJack\obj\Debug\BlackJack.csproj.AssemblyReference.cache
+C:\Users\shark\source\repos\wedstrijd\BlackJack v2\BlackJack\obj\Debug\BlackJack.blackjack.resources
+C:\Users\shark\source\repos\wedstrijd\BlackJack v2\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\shark\source\repos\wedstrijd\BlackJack v2\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.cache
+C:\Users\shark\source\repos\wedstrijd\BlackJack v2\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\shark\source\repos\wedstrijd\BlackJack v2\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\shark\source\repos\wedstrijd\BlackJack v2\BlackJack\obj\Debug\BlackJack.pdb
